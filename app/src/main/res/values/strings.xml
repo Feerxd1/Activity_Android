@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Multiple</string>
+    <string name="user">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="login_error">Usuario o contraseña incorrectos</string>
+    <string name="login_error2">Usuario o contraseña estan en blanco</string>
+    <string name="login_success">Bienvenido usuario, a iniciado sesion correctamente</string>
+    <string name="back">Volver Al Menu</string>
+    <string name="Calculadora">Calculadora</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="edad">Edad</string>
+    <string name="Guardar">Guardar</string>
+    <string name="IngresoDatos">Ingreso de Datos</string>
+    <string name="Permisos">Permisos</string>
+
+
+</resources>
